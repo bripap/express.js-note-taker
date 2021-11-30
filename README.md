@@ -25,17 +25,14 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Final product:
 
 Home page:
-![Note taker example of home page running on local server](public/assets/images/homepage.png)
+![Note taker example of home page](public/assets/images/homepage.png)
 
 
 Example notes:
 ![Note taker example notes](public/assets/images/examplenotes.png)
 
 
-HEROKU URL: 
-GITHUB URL: 
+### HEROKU URL: https://secure-cliffs-03800.herokuapp.com/heroku 
+### GITHUB URL: https://github.com/bripap/express.js-note-taker
 
-
-QUESTION:
-* GitHub repository contains application code.
 
