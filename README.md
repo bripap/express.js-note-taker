@@ -25,11 +25,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Final product:
 
 Home page:
-![Note taker example of home page running on local server](.public/assets/images/homepage.png)
+![Note taker example of home page running on local server](public/assets/images/homepage.png)
 
 
 Example notes:
-![Note taker example notes](.public/assets/images/examplenotes.png)
+![Note taker example notes](public/assets/images/examplenotes.png)
 
 
 HEROKU URL: 
